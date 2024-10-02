@@ -224,8 +224,11 @@ zamimg.com
 zattoo.com
 zim.vn
 zozotown.com
+14.102.250.18
+14.102.250.19
 50.7.31.230:8898
 174.142.105.153
+69.65.19.160
 xn--4gq171p.com
 xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
@@ -2816,6 +2819,7 @@ gaozhisheng.org
 gaozhisheng.net
 gardennetworks.com
 gardennetworks.org
+72.52.81.22
 gartlive.com
 gate-project.com
 gather.com
@@ -4953,6 +4957,9 @@ sexhuang.com
 sexinsex.net
 sexinsex.net
 sextvx.com
+67.220.91.15
+67.220.91.18
+67.220.91.23
 sfileydy.com
 sfshibao.com
 sftindia.org
