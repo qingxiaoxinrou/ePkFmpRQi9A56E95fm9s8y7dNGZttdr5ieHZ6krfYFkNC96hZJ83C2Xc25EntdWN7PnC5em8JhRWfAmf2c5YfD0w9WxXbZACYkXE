@@ -37,8 +37,8 @@ jobs:
       - name: Remove lines without '.'
         run: grep '\.' cleaned_gfwlist.txt > filtered_gfwlist.txt
 
-      - name: Remove lines that are IP addresses
-        run: grep -vE '^(127\.|10\.|192\.168\.|172\.(1[6-9]|2[0-9]|3[0-1])\.|[1-9][0-9]?\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})$' filtered_gfwlist.txt > final_gfwlist.txt
+      - name: Remove lines with three or more '.'
+        run: grep -v '\.\{3,\}' filtered_gfwlist.txt > final_gfwlist.txt
 
       - name: Create data directory
         run: mkdir -p data
