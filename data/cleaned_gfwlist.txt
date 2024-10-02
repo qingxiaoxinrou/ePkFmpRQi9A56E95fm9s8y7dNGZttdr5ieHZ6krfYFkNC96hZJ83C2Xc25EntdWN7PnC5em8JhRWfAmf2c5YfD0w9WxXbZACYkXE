@@ -496,13 +496,9 @@ china-mmm.sa.com
 .now.im
 
 amazon.co.jp
-.amazon.com/Dalai-Lama
-amazon.com/Prisoner-State-Secret-Journal-Premier
 s3-ap-northeast-1.amazonaws.com
 
 aolchannels.aol.com
-video.aol.ca/video-detail
-video.aol.co.uk/video-detail
 video.aol.com
 video.aol.com
 search.aol.com
@@ -1113,7 +1109,6 @@ voatibetanenglish.com
 zh.ecdm.wikia.com
 evchk.wikia.com
 fq.wikia.com
-zh.pttpedia.wikia.com/wiki/%E7%BF%92%E5%8C%85%E5%AD%90%E4%B9%8B%E4%BA%82
 cn.uncyclopedia.wikia.com
 zh.uncyclopedia.wikia.com
 
@@ -1134,11 +1129,8 @@ hk.yahoo.com
 hk.knowledge.yahoo.com
 tw.money.yahoo.com
 hk.myblog.yahoo.com
-news.yahoo.com/china-blocks-bbc
 hk.news.yahoo.com
 hk.rd.yahoo.com
-hk.search.yahoo.com/search
-hk.video.news.yahoo.com/video
 meme.yahoo.com
 tw.answers.yahoo.com
 tw.knowledge.yahoo.com
@@ -1175,7 +1167,6 @@ duckduckgo-owned-server.yahoo.net
 12vpn.net
 1337x.to
 .138.com
-141hongkong.com/forum
 141jj.com
 .141tube.com
 1688.com.au
@@ -1203,13 +1194,11 @@ zhao.1984.city
 .1mobile.com
 1pondo.tv
 .2-hand.info
-.2000fun.com/bbs
 .2008xianzhang.info
 2008xianzhang.info
 2017.hk
 2021hkcharter.com
 2047.name
-21andy.com/blog
 .21join.com
 .21pron.com
 21sextury.com
@@ -1264,7 +1253,6 @@ taiwannation.50webs.com
 .8-d.com
 85cc.net
 .85cc.us
-.881903.com/page/zh-tw/
 881903.com
 .888.com
 .888poker.com
@@ -1319,12 +1307,10 @@ activpn.com
 aculo.us
 addictedtocoffee.de
 addyoutube.com
-.adelaidebbs.com/bbs
 .adpl.org.hk
 .adult-sex-games.com
 adult-sex-games.com
 adultfriendfinder.com
-adultkeep.net/peepshow/members/main.htm
 advanscene.com
 advertfan.com
 .ae.org
@@ -1361,7 +1347,6 @@ vod-abematv.akamaized.net
 
 rthklive2-lh.akamaihd.net
 
-.akademiye.org/ug
 akiba-online.com
 akow.org
 .al-islam.com
@@ -1394,7 +1379,6 @@ allmovie.com
 almasdarnews.com
 .alphaporno.com
 alternate-tools.com
-alternativeto.net/software
 alvinalexander.com
 alwaysdata.com
 alwaysdata.com
@@ -1404,7 +1388,6 @@ alwaysvpn.com
 am730.com.hk
 ameblo.jp
 ameblo.jp
-www1.american.edu/ted/ice/tibet
 americangreencard.com
 amiblockedornot.com
 .amigobbs.net
@@ -1418,15 +1401,12 @@ amnestyusa.org
 .amnyemachen.org
 .amoiist.com
 .amtb-taipei.org
-androidplus.co/apk
 .andygod.com
-annatam.com/chinese
 anchor.fm
 anchorfree.com
 ancsconf.org
 andfaraway.net
 android-x86.org
-angelfire.com/hi/hayashi
 angularjs.org
 animecrazy.net
 aniscartujo.com
@@ -1462,14 +1442,12 @@ apigee.com
 apk.support
 apk-dl.com
 apkcombo.com
-.apkmonk.com/app
 apkmonk.com
 apkplz.com
 apkpure.com
 apkpure.net
 .aplusvpn.com
 appbrain.com
-.appdownloader.net/Android
 .appledaily.com
 appledaily.com
 appledaily.com.hk
@@ -1504,7 +1482,6 @@ army.mil
 artofpeacefoundation.org
 artsy.net
 asacp.org
-asdfg.jp/dabr
 asg.to
 .asia-gaming.com
 .asiaharvest.org
@@ -1567,7 +1544,6 @@ babylonbee.com
 babynet.com.hk
 backchina.com
 backchina.com
-.backpackers.com.tw/forum
 backtotiananmen.com
 bad.news
 .badiucao.com
@@ -1606,17 +1582,14 @@ dajusha.baywords.com
 bbchat.tv
 bb-chat.tv
 .bbg.gov
-.bbkz.com/forum
 .bbnradio.org
 bbs-tw.com
-.bbsdigest.com/thread
 bbsfeed.com
 bbsland.com
 .bbsmo.com
 .bbsone.com
 bbtoystore.com
 .bcast.co.nz
-.bcc.com.tw/board
 .bcchinese.net
 .bcmorning.com
 bdsmvideos.net
@@ -1676,7 +1649,6 @@ bignews.org
 bild.de
 .biliworld.com
 .binux.me
-ai.binwang.me/couplet
 .bit.do
 .bit.ly
 bitchute.com
@@ -1701,7 +1673,6 @@ tor.blingblingsquad.net
 blinkx.com
 blinw.com
 .blip.tv
-blip.tv/
 blockcast.it
 .blockcn.com
 blockcn.com
@@ -1733,7 +1704,6 @@ blubrry.com
 bnews.co
 bnext.com.tw
 bnrmetal.com
-boardreader.com/thread
 boardreader.com
 .bod.asia
 bod.asia
@@ -1770,7 +1740,6 @@ boyangu.com
 .boyfriendtv.com
 .boysfood.com
 br.st
-.brainyquote.com/quotes/authors/d/dalai_lama
 brandonhutchinson.com
 braumeister.org
 brave.com
@@ -1787,8 +1756,6 @@ breaking911.com
 .breakingtweets.com
 breakingtweets.com
 breakwall.net
-briian.com/6511/freegate
-.briefdream.com/%E7%B4%A0%E6%A3%BA
 brill.com
 brizzly.com
 brizzly.com
@@ -1814,7 +1781,6 @@ btku.org
 .btsynckeys.com
 .budaedu.org
 budaedu.org
-.buddhanet.com.tw/zfrop/tibet
 buffered.com
 bullguard.com
 .bullog.org
@@ -1825,17 +1791,8 @@ bumingbai.net
 bunbunhk.com
 .busayari.com
 business-humanrights.org
-.businessinsider.com/bing-could-be-censoring-search-results-2014
-.businessinsider.com/china-banks-preparing-for-debt-implosion-2014
-.businessinsider.com/hong-kong-activists-defy-police-tear-gas-as-protests-continue-overnight-2014
-.businessinsider.com/internet-outages-reported-in-north-korea-2014
-.businessinsider.com/iphone-6-is-approved-for-sale-in-china-2014
-.businessinsider.com/nfl-announcers-surface-tablets-2014
-.businessinsider.com/panama-papers
-.businessinsider.com/umbrella-man-hong-kong-2014
 .businesstoday.com.tw
 businesstoday.com.tw
-.busu.org/news
 busytrade.com
 .buugaa.com
 .buzzhand.com
@@ -1864,13 +1821,11 @@ cactusvpn.com
 .cahr.org.tw
 .caijinglengyan.com
 caijinglengyan.com
-.calameo.com/books
 calendarz.com
 .calgarychinese.ca
 .calgarychinese.com
 .calgarychinese.net
 falun.caltech.edu
-.its.caltech.edu/~falun/
 .cam4.com
 .cam4.jp
 .cam4.sg
@@ -1917,7 +1872,6 @@ cato.org
 cattt.com
 .cbc.ca
 cbc.ca
-.cbsnews.com/video
 .cbtc.org.hk
 southpark.cc.com
 cccat.cc
@@ -1936,7 +1890,6 @@ cclifefl.org
 ccthere.com
 ccthere.net
 .cctmweb.net
-.cctongbao.com/article/2078732
 ccue.ca
 ccue.com
 .ccvoice.ca
@@ -2042,8 +1995,6 @@ chinahorizon.org
 chinainterimgov.org
 chinalaborwatch.org
 chinalawtranslate.com
-.chinapost.com.tw/taiwan/national/national-news
-chinaxchina.com/howto
 chinalawandpolicy.com
 .chinamule.com
 chinamule.com
@@ -2053,7 +2004,6 @@ chinamz.org
 chinapress.com.my
 .china-review.com.ua
 .chinarightsia.org
-chinasmile.net/forums
 chinasocialdemocraticparty.com
 chinasocialdemocraticparty.com
 chinasoul.org
@@ -2078,10 +2028,8 @@ chinesedemocracy.com
 chinesegay.org
 .chinesen.de
 chinesen.de
-.chinesenews.net.au/
 .chinesepen.org
 chineseradioseattle.com
-.chinesetalks.net/ch
 chineseupress.com
 .chingcheong.com
 chingcheong.com
@@ -2093,13 +2041,11 @@ cnnews.chosun.com
 christianfreedom.org
 christianstudy.com
 christianstudy.com
-christusrex.org/www1/sdc
 .chubold.com
 chubun.com
 christiantimes.org.hk
 .chrlawyers.hk
 chrlawyers.hk
-.churchinhongkong.org/b5/index.php
 .chushigangdrug.ch
 .cienen.com
 .cineastentreff.de
@@ -2116,7 +2062,6 @@ citizensradio.org
 .city365.ca
 city9x.com
 citypopulation.de
-.citytalk.tw/event
 .civicparty.hk
 civicparty.hk
 .civildisobediencemovement.org
@@ -2129,7 +2074,6 @@ psiphon.civisec.org
 civitai.com
 .ck101.com
 ck101.com
-.clarionproject.org/news/islamic-state-isis-isil-propaganda
 classicalguitarblog.net
 .clb.org.hk
 clearharmony.net
@@ -2158,7 +2102,6 @@ download.cnet.com
 .cnex.org.cn
 .cnineu.com
 wiki.cnitter.com
-.cnn.com/video
 .cnpolitics.org
 cnpolitics.org
 .cn-proxy.com
@@ -2169,7 +2112,6 @@ coat.co.jp
 .cochina.co
 cochina.co
 cochina.org
-.code1984.com/64
 codeshare.io
 codeskulptor.org
 conoha.jp
@@ -2239,7 +2181,6 @@ ctowc.org
 .cts.com.tw
 cts.com.tw
 ctwant.com
-.cuhkacs.org/~benng
 .cuihua.org
 cuihua.org
 .cuiweiping.net
@@ -2328,9 +2269,7 @@ daum.net
 daxa.cn
 daxa.cn
 cn.dayabook.com
-.daylife.com/topic/dalai_lama
 db.tt
-.dbc.hk/main
 dbgjd.com
 dcard.tw
 dcmilitary.com
@@ -2344,7 +2283,6 @@ decodet.co
 .definebabe.com
 
 delcamp.net
-delicious.com/GFWbookmark
 .democrats.org
 democrats.org
 .demosisto.hk
@@ -2397,7 +2335,6 @@ dns2go.com
 dnssec.net
 doctorvoice.org
 
-.dogfartnetwork.com/tour
 gloryhole.com
 
 .dojin.com
@@ -2453,7 +2390,6 @@ dtic.mil
 .duckdns.org
 .duckduckgo.com
 duckduckgo.com
-.duckload.com/download
 duckmylife.com
 .duga.jp
 .duihua.org
@@ -2492,8 +2428,6 @@ e-gold.com
 e-hentai.org
 .e-hentaidb.com
 e-info.org.tw
-.e-traderland.net/board
-.e-zone.com.hk/discuz
 .e123.hk
 e123.hk
 .earlytibet.com
@@ -2543,10 +2477,7 @@ elgoog.im
 .elpais.com
 elpais.com
 .eltondisney.com
-.emaga.com/info/3407
 emilylau.org.hk
-.emanna.com/chineseTraditional
-bitc.bme.emory.edu/~lzhou/blogs
 .empfil.com
 .emule-ed2k.com
 .emulefans.com
@@ -2608,7 +2539,6 @@ eromangadouzin.com
 .eroticsaloon.net
 .eslite.com
 eslite.com
-wiki.esu.im/%E8%9B%A4%E8%9B%A4%E8%AF%AD%E5%BD%95
 esu.dog
 .etaa.org.au
 .etadult.com
@@ -2616,7 +2546,6 @@ etaiwannews.com
 etizer.org
 etokki.com
 etsy.com
-.ettoday.net/news/20151216/614081
 etvonline.hk
 .eu.org
 eu.org
@@ -2626,8 +2555,6 @@ eu.org
 eurekavpt.com
 .euronews.com
 euronews.com
-eeas.europa.eu/delegations/china/press_corner/all_news/news/2015/20150716_zh
-eeas.europa.eu/statements-eeas/2015/151022
 apps.evozi.com
 evschool.net
 exblog.jp
@@ -2648,7 +2575,6 @@ eyevio.jp
 eyevio.jp
 .eyny.com
 eyny.com
-.ezpc.tk/category/soft
 .ezpeer.com
 
 facebookquotes4u.com
@@ -2726,7 +2652,6 @@ fastssh.com
 faststone.org
 favstar.fm
 favstar.fm
-faydao.com/weblog
 faz.net
 .fc2.com
 .fc2china.com
@@ -2761,7 +2686,6 @@ figprayer.com
 .fileflyer.com
 fileflyer.com
 .files2me.com
-.fileserve.com/file
 fillthesquare.org
 filmingfortibet.org
 .filthdump.com
@@ -2830,7 +2754,6 @@ free4u.com.ar
 free-gate.org
 .free-hada-now.org
 free-proxy.cz
-.free.fr/adsl
 kineox.free.fr
 tibetlibre.free.fr
 freealim.com
@@ -2857,11 +2780,9 @@ freeman2.com
 .freeopenvpn.com
 freemoren.com
 freemorenews.com
-freemuse.org/archives/789
 freenet-china.org
 freenewscn.com
 cn.freeones.com
-.freeoz.org/bbs
 freeoz.org
 freessh.us
 free4u.com.ar
@@ -2871,7 +2792,6 @@ freebeacon.com
 .freechina.news
 freechinaforum.org
 freechinaweibo.com
-.freedomcollection.org/interviews/rebiya_kadeer
 .freeforums.org
 freenetproject.org
 .freeoz.org
@@ -2891,14 +2811,12 @@ freeweibo.com
 .freeyoutubeproxy.net
 freeyoutubeproxy.net
 friendfeed.com
-friendfeed-media.com/e99a4ebe2fb4c1985c2a58775eb4422961aa5a2e
 friends-of-tibet.org
 .friendsoftibet.org
 friendsoftibet.org
 freechina.net
 freevpn.nl
 freeyellow.com
-hk.frienddy.com/hk
 .fring.com
 fring.com
 .fromchinatousa.net
@@ -2987,17 +2905,14 @@ gclooney.com
 gclubs.com
 gcmasia.com
 .gcpnews.com
-.gdbt.net/forum
 gdzf.org
 geek-art.net
-geekerhome.com/2010/03/xixiang-project-cross-gfw
 geekheart.info
 .gekikame.com
 .gelbooru.com
 generated.photos
 genius.com
 .geocities.co.jp
-.geocities.com/SiliconValley/Circuit/5683/download.html
 hk.geocities.com
 geocities.jp
 geph.io
@@ -3012,7 +2927,6 @@ getgom.com
 .geti2p.net
 geti2p.net
 getiton.com
-.getjetso.com/forum
 .getlantern.org
 getlantern.org
 getmalus.com
@@ -3062,7 +2976,6 @@ globalrescue.net
 globalvoicesonline.org
 globalvpn.net
 .glock.com
-gluckman.com/DalaiLama
 gmgard.com
 gmhz.org
 .gmll.org
@@ -3098,7 +3011,6 @@ gongmeng.info
 gongm.in
 gongminliliang.com
 .gongwt.com
-blog.goo.ne.jp/duck-tail_2009
 .gooday.xyz
 gooday.xyz
 goodhope.school
@@ -3130,7 +3042,6 @@ greatfirewallofchina.org
 greenfieldbookstore.com.hk
 .greenparty.org.tw
 greenpeace.org
-.greenreadings.com/forum
 great-firewall.com
 great-roc.org
 greatroc.org
@@ -3196,7 +3107,6 @@ hacg.club
 .hacg.li
 .hacg.me
 .hacg.red
-.hacken.cc/bbs
 .hacker.org
 hackmd.io
 hackthatphone.net
@@ -3204,7 +3114,6 @@ hahlo.com
 hakkatv.org.tw
 .handcraftedsoftware.org
 .hanunyi.com
-.hao.news/news
 happy-vpn.com
 .haproxy.org
 hardsextube.com
@@ -3234,7 +3143,6 @@ helloqueer.com
 hellotxt.com
 hellotxt.com
 .hentai.to
-.hellouk.org/forum/lofiversion
 .helpeachpeople.com
 helpeachpeople.com
 helpster.de
@@ -3262,7 +3170,6 @@ hi-on.org.tw
 hiccears.com
 hidden-advent.org
 hidden-advent.org
-hidecloud.com/blog/2008/07/29/fuck-beijing-olympics.html
 hide.me
 .hidein.net
 .hideipvpn.com
@@ -3297,7 +3204,6 @@ hizbuttahrir.org
 hizb-ut-tahrir.info
 hizb-ut-tahrir.org
 .hjclub.info
-.hk-pub.com/forum
 .hk01.com
 hk01.com
 .hk32168.com
@@ -3317,20 +3223,16 @@ hkcnews.com
 hkcoc.com
 hkctu.org.hk
 hkday.net
-.hkdailynews.com.hk/china.php
 hkdc.us
 hkdf.org
 .hkej.com
-.hkepc.com/forum/viewthread.php?tid=1153322
 hket.com
 hkfaa.com
 hkfreezone.com
 hkfront.org
 m.hkgalden.com
-.hkgreenradio.org/home
 hkgpao.com
 .hkheadline.com*blog
-.hkheadline.com/instantnews
 hkhkhk.com
 hkhrc.org.hk
 hkhrm.org.hk
@@ -3353,7 +3255,6 @@ hkusu.net
 .hkwcc.org.hk
 hkzone.org
 .hmonghot.com
-.hmv.co.jp/
 hnjhj.com
 hnjhj.com
 .hnntube.com
@@ -3471,7 +3372,6 @@ iask.ca
 iask.bz
 iask.bz
 .iav19.com
-ibiblio.org/pub/packages/ccic
 ibit.am
 .iblist.com
 iblogserv-f.net
@@ -3491,7 +3391,6 @@ warbler.iconfactory.net
 
 iconpaper.org
 icu-project.org
-w.idaiwan.com/forum
 idemocracy.asia
 .identi.ca
 identi.ca
@@ -3521,7 +3420,6 @@ ignitedetroit.net
 .igotmail.com.tw
 igvita.com
 ihakka.net
-.ihao.org/dz5
 iicns.com
 .ikstar.com
 ilhamtohtiinstitute.org
@@ -3540,9 +3438,6 @@ imagevenue.com
 imagezilla.net
 .imb.org
 
-.imdb.com/title/tt0819354
-.imdb.com/title/tt1540068
-.imdb.com/title/tt4908644
 
 .img.ly
 img.ly
@@ -3600,8 +3495,6 @@ iphonix.fr
 ipicture.ru
 .ipjetable.net
 ipjetable.net
-.ipobar.com/read.php?
-ipoock.com/img
 .iportal.me
 ippotv.com
 .ipredator.se
@@ -3618,7 +3511,6 @@ ironsocket.com
 .is.gd
 .islahhaber.net
 .islam.org.hk
-.islamawareness.net/Asia/China
 .islamhouse.com
 islamhouse.com
 .islamicity.com
@@ -3637,7 +3529,6 @@ issuu.com
 .istars.co.nz
 oversea.istarshine.com
 oversea.istarshine.com
-blog.istef.info/2007/10/21/myentunnel
 .istiqlalhewer.com
 .istockphoto.com
 isunaffairs.com
@@ -3734,7 +3625,6 @@ jjgirls.com
 .jkb.cc
 jkforum.net
 jma.go.jp
-research.jmsc.hku.hk/social
 weiboscope.jmsc.hku.hk
 .jmscult.com
 joachims.org
@@ -3806,7 +3696,6 @@ kawase.com
 .kebrum.com
 kebrum.com
 .kechara.com
-.keepandshare.com/visit/visit_page.php?i=688154
 .keezmovies.com
 .kendincos.net
 .kenengba.com
@@ -3814,7 +3703,6 @@ kenengba.com
 keontech.net
 .kepard.com
 kepard.com
-wiki.keso.cn/Home
 keycdn.com
 .khabdha.org
 .khmusic.com.tw
@@ -3837,7 +3725,6 @@ kinmen.travel
 .kissbbao.cn
 kk-whys.co.jp
 .kmuh.org.tw
-.knowledgerush.com/kr/encyclopedia
 knowyourmeme.com
 .kobo.com
 kobo.com
@@ -3857,7 +3744,6 @@ kqes.net
 .ksdl.org
 .ksnews.com.tw
 ktzhk.com
-.kui.name/event
 kukuku.uk
 kun.im
 .kurashsultan.com
@@ -3911,7 +3797,6 @@ le-vpn.com
 .leafyvpn.net
 leafyvpn.net
 ledger.com
-leeao.com.cn/bbs/forum.php
 lefora.com
 left21.hk
 .legalporno.com
@@ -3941,13 +3826,11 @@ liaowangxizang.net
 liberal.org.hk
 libertysculpturepark.com
 libertytimes.com.tw
-blogs.libraryinformationtechnology.com/jxyz
 libredd.it
 lighten.org.tw
 lightnovel.cn
 limiao.net
 linkuswell.com
-abitno.linpie.com/use-ipv6-to-fuck-gfw
 line.me
 line-apps.com
 .linglingfa.com
@@ -3960,7 +3843,6 @@ apidocs.linksalpha.com
 www.linksalpha.com
 help.linksalpha.com
 linux.org.hk
-linuxtoy.org/archives/installing-west-chamber-on-ubuntu
 .lionsroar.com
 .lipuman.com
 liquidvpn.com
@@ -4009,7 +3891,6 @@ longmusic.com
 longtermly.net
 lookpic.com
 .looktoronto.com
-.lotsawahouse.org/tibetan-masters/fourteenth-dalai-lama
 .lotuslight.org.hk
 .lotuslight.org.tw
 hkreporter.loved.hk
@@ -4026,7 +3907,6 @@ lsm.org
 lsmchinese.org
 .lsmkorean.org
 lsmkorean.org
-.lsmradio.com/rad_archives
 .lsmwebcast.com
 .ltn.com.tw
 ltn.com.tw
@@ -4045,7 +3925,6 @@ lzjscript.com
 .lzmtnews.org
 lzmtnews.org
 
-http://*.m-team.cc
 .macrovpn.com
 macts.com.tw
 mad-ar.ch
@@ -4075,10 +3954,8 @@ makemymood.com
 .mansionpoker.com
 martau.com
 .martsangkagyuofficial.org
-maruta.be/forget
 .marxist.com
 marxist.net
-.marxists.org/chinese
 matainja.com
 mathable.io
 mathiew-badimon.com
@@ -4098,8 +3975,6 @@ meansys.com
 .media.org.hk
 .mediachinese.com
 mediachinese.com
-.mediafire.com/?
-.mediafire.com/download
 .mediafreakcity.com
 mediafreakcity.com
 .medium.com
@@ -4135,12 +4010,9 @@ meripet.biz
 meripet.com
 merit-times.com.tw
 meshrep.com
-.mesotw.com/bbs
-metacafe.com/watch
 metafilter.com
 meteorshowersonline.com
 metro.taipei
-.metrohk.com.hk/?cmd=detail&categoryID=2
 metrolife.ca
 .metroradio.com.hk
 mewe.com
@@ -4153,7 +4025,6 @@ mhradio.org
 michaelmarketl.com
 .microvpn.com
 middle-way.net
-.mihk.hk/forum
 .mihr.com
 mihua.org
 mikesoltys.com
@@ -4282,11 +4153,9 @@ mx981.com
 .my-private-network.co.uk
 my-private-network.co.uk
 forum.my903.com
-.myactimes.com/actimes
 myanniu.com
 .myaudiocast.com
 myaudiocast.com
-.myav.com.tw/bbs
 .mybbs.us
 .myca168.com
 .mycanadanow.com
@@ -4299,7 +4168,6 @@ mychinanews.com
 .mychinese.news
 mycnnews.com
 mykomica.org
-mycould.com/discuz
 .myeasytv.com
 myeclipseide.com
 .myforum.com.hk
@@ -4311,12 +4179,10 @@ myforum.com.uk
 .myiphide.com
 myiphide.com
 forum.mymaji.com
-mymediarom.com/files/box
 mymoe.moe
 mymusic.net.tw
 myparagliding.com
 mypopescu.com
-myradio.hk/podcast
 .myreadingmanga.info
 mysinablog.com
 .myspace.com
@@ -4329,7 +4195,6 @@ old.nabble.com
 naitik.net
 .nakido.com
 nakido.com
-.nakuz.com/bbs
 nalandabodhi.org
 nalandawest.org
 .namgyal.org
@@ -4349,9 +4214,7 @@ cyberghost.natado.com
 national-lottery.co.uk
 nationalawakening.org
 nationalinterest.org
-news.nationalgeographic.com/news/2014/06/140603-tiananmen-square
 nationalreview.com
-.nationsonline.org/oneworld/tibet
 line.naver.jp
 navyfamily.navy.mil
 navyreserve.navy.mil
@@ -4404,7 +4267,6 @@ news100.com.tw
 newschinacomment.org
 .newscn.org
 newscn.org
-newspeak.cc/story
 .newsancai.com
 newsancai.com
 .newsdetox.ca
@@ -4436,7 +4298,6 @@ ngensis.com
 ngodupdongchung.com
 .nhentai.net
 .nhk-ondemand.jp
-.nicovideo.jp/watch
 nicovideo.jp
 nighost.org
 av.nightlife141.com
@@ -4445,7 +4306,6 @@ ninecommentaries.com
 ninjaproxy.ninja
 nintendium.com
 taiwanyes.ning.com
-usmgtcg.ning.com/forum
 niusnews.com
 njactb.org
 njuice.com
@@ -4454,7 +4314,6 @@ nlfreevpn.com
 nmsl.website
 nnews.eu
 
-.ddns.net/
 .gooddns.info
 gotdns.ch
 .maildns.xyz
@@ -4466,8 +4325,6 @@ sytes.net
 .zapto.org
 
 nobel.se
-nobelprize.org/nobel_prizes/peace/laureates/1989
-nobelprize.org/nobel_prizes/peace/laureates/2010
 nobodycanstop.us
 nobodycanstop.us
 nokogiri.org
@@ -4539,9 +4396,7 @@ ogaoga.org
 twtr2src.ogaoga.org
 .ogate.org
 ogate.org
-www2.ohchr.org/english/bodies/cat/docs/ngos/II_China_41.pdf
 ohmyrss.com
-.oikos.com.tw/v4
 .oiktv.com
 oizoblog.com
 .ok.ru
@@ -4589,7 +4444,6 @@ openvpn.net
 openvpn.net
 openwebster.com
 .openwrt.org.cn
-my.opera.com/dahema
 demo.opera-mini.net
 .opus-gaming.com
 www.orchidbbs.com
@@ -4620,14 +4474,11 @@ xinqimeng.over-blog.com
 overcast.fm
 overdaily.org
 overplay.net
-share.ovi.com/media
 ovpn.com
 www.owind.com
 owltail.com
 oxfordscholarship.com
 oyax.com
-oyghan.com/wps
-.ozchinese.com/bbs
 ow.ly
 bbs.ozchinese.com
 .ozvoice.org
@@ -4674,8 +4525,6 @@ pastie.org
 blog.pathtosharepoint.com
 patreon.com
 pawoo.net
-pbs.org/wgbh/pages/frontline/tankman
-pbs.org/wgbh/pages/frontline/tibet
 video.pbs.org
 
 pbwiki.com
@@ -4879,7 +4728,6 @@ prestige-av.com
 .prisoneralert.com
 pritunl.com
 privacybox.de
-.private.com/home
 privateinternetaccess.com
 privatepaste.com
 privatepaste.com
@@ -4919,7 +4767,6 @@ pttgame.com
 .puffstore.com
 .puuko.com
 pullfolio.com
-.punyu.com/puny
 pureconcepts.net
 pureinsight.org
 purepdf.com
@@ -4930,13 +4777,11 @@ pursuestar.com
 nitter.pussthecat.org
 .pussyspace.com
 .putihome.org
-.putlocker.com/file
 pwned.com
 pximg.net
 python.com
 .python.com.tw
 python.com.tw
-pythonhackers.com/p
 ss.pythonic.life
 
 .qanote.com
@@ -4969,12 +4814,10 @@ quitccp.net
 .quitccp.net
 quitccp.org
 .quitccp.org
-.quora.com/Chinas-Future
 .quran.com
 .quranexplorer.com
 qusi8.net
 .qvodzy.org
-nemesis2.qx.net/pages/MyEnTunnel
 qxbbs.org
 
 r0.ru
@@ -4992,7 +4835,6 @@ radiovncr.com
 raggedbanner.com
 raidcall.com.tw
 .raidtalk.com.tw
-.rainbowplan.org/bbs
 .raizoji.or.jp
 rangwang.biz
 rangzen.net
@@ -5103,7 +4945,6 @@ rthk.org.hk
 rti.org.tw
 rti.tw
 .rtycminnesota.org
-.ruanyifeng.com/blog*some_ways_to_break_the_great_firewall
 rukor.org
 rule34.xxx
 rumble.com
@@ -5138,7 +4979,6 @@ sakuralive.com
 .sakya.org
 .salvation.org.hk
 salvation.org.hk
-.samair.ru/proxy/type-01
 .sambhota.org
 cn.sandscotaicentral.com
 sankakucomplex.com
@@ -5160,7 +5000,6 @@ saveuighur.org
 savevid.com
 say2.info
 .sbme.me
-.sbs.com.au/yourlanguage
 .scasino.com
 .sciencenets.com
 .scmp.com
@@ -5267,7 +5106,6 @@ shipcamouflage.com
 shixiao.org
 shizhao.org
 shizhao.org
-shkspr.mobi/dabr
 shodanhq.com
 shooshtime.com
 .shop2000.com.tw
@@ -5293,10 +5131,8 @@ simbolostwitter.com
 simplecd.org
 simplecd.org
 simpleproductivityblog.com
-bbs.sina.com/
 bbs.sina.com%2F
 blog.sina.com.tw
-dailynews.sina.com/
 dailynews.sina.com%2F
 forum.sina.com.hk
 home.sina.com
@@ -5304,8 +5140,6 @@ magazines.sina.com.tw
 news.sina.com.hk
 news.sina.com.tw
 news.sinchew.com.my
-.sinchew.com.my/node/
-.sinchew.com.my/taxonomy/term
 .singaporepools.com.sg
 singaporepools.com.sg
 .singfortibet.com
@@ -5361,9 +5195,7 @@ smartdnsproxy.com
 .smarthide.com
 app.smartmailcloud.com
 smchbooks.com
-.smh.com.au/world/death-of-chinese-playboy-leaves-fresh-scratches-in-party-paintwork-20120903-25a8v
 smhric.org
-.smith.edu/dalailama
 .smyxy.org
 snapchat.com
 .snaptu.com
@@ -5371,7 +5203,6 @@ snaptu.com
 sndcdn.com
 sneakme.net
 snowlionpub.com
-home.so-net.net.tw/yisa_tsai
 soc.mil
 socialblade.com
 .socks-proxy.net
@@ -5457,7 +5288,6 @@ squirrelvpn.com
 srocket.us
 .ss-link.com
 ss-link.com
-.ssglobal.co/wp
 .ssglobal.me
 ssh91.com
 .sspro.ml
@@ -5472,7 +5302,6 @@ sstmlt.net
 stage64.hk
 standupfortibet.org
 standwithhk.org
-stanford.edu/group/falun
 usinfo.state.gov
 statueofdemocracy.org
 .starfishfx.com
@@ -5490,11 +5319,9 @@ steganos.com
 .steganos.net
 .stepchina.com
 ny.stgloballink.com
-hd.stheadline.com/news/realtime
 sthoo.com
 sthoo.com
 .stickam.com
-stickeraction.com/sesawe
 .stileproject.com
 .sto.cc
 .stoporganharvesting.org
@@ -5513,15 +5340,11 @@ straplessdildo.com
 streamable.com
 streamate.com
 streamingthe.net
-streema.com/tv/NTDTV_Chinese
-cn.streetvoice.com/article
-cn.streetvoice.com/diary
 cn2.streetvoice.com
 tw.streetvoice.com
 .strikingly.com
 strongvpn.com
 .strongwindpress.com
-.student.tw/db
 studentsforafreetibet.org
 stumbleupon.com
 stupidvideos.com
@@ -5570,8 +5393,6 @@ sylfoundation.org
 syncback.com
 sysresccd.org
 .sytes.net
-blog.syx86.com/2009/09/puff
-blog.syx86.cn/2009/09/puff
 .szbbs.net
 .szetowah.org.hk
 
@@ -5694,7 +5515,6 @@ theconversation.com
 thediplomat.com
 thedw.us
 theepochtimes.com
-thefrontier.hk/tf
 theguardian.com
 thegay.com
 .thegly.com
@@ -5914,7 +5734,6 @@ trendsmap.com
 trendsmap.com
 .trialofccp.org
 trialofccp.org
-.trimondi.de/SDLE
 .trouw.nl
 trouw.nl
 .trt.net.tr
@@ -5986,8 +5805,6 @@ slutmoonbeam.com
 .tv.com
 tvants.com
 forum.tvb.com
-news.tvb.com/list/world
-news.tvb.com/local
 news.tvbs.com.tw
 .tvboxnow.com
 tvider.com
@@ -6128,13 +5945,11 @@ u9un.com
 uberproxy.net
 .uc-japan.org
 uc-japan.org
-.srcf.ucam.org/salon/
 ucdc1998.org
 uderzo.it
 .udn.com
 udn.com
 udn.com.tw
-udnbkk.com/bbs
 uforadio.com.tw
 ufreevpn.com
 .ugo.com
@@ -6150,7 +5965,6 @@ ukliferadio.co.uk
 ultravpn.fr
 ultravpn.fr
 ultraxs.com
-umich.edu/~falun
 unblock.cn.com
 .unblocker.yt
 unblock-us.com
@@ -6158,7 +5972,6 @@ unblock-us.com
 .unblockdmm.com
 unblocksit.es
 uncyclomedia.org
-.uncyclopedia.hk/wiki
 underwoodammo.com
 underwoodammo.com
 unholyknight.com
@@ -6179,8 +5992,6 @@ tor.updatestar.com
 upghsbc.com
 .upholdjustice.org
 .upload4u.info
-uploaded.net/file
-.uploadstation.com/file
 .upmedia.mg
 upmedia.mg
 .upornia.com
@@ -6190,7 +6001,6 @@ uptodown.com
 ur7s.com
 urbandictionary.com
 urbansurvival.com
-myshare.url.com.tw/
 urlborg.com
 urlparser.com
 us.to
@@ -6269,7 +6079,6 @@ videomega.tv
 .videomo.com
 videopediaworld.com
 .videopress.com
-.vidinfo.org/video
 vietdaikynguyen.com
 .vijayatemple.org
 vilavpn.com
@@ -6369,12 +6178,10 @@ vraiesagesse.net
 vtunnel.com
 vuku.cc
 
-lists.w3.org/archives/public
 w3schools.com
 waffle1999.com
 .wahas.com
 .waigaobu.com
-waikeung.org/php_wind
 .wailaike.net
 wainao.me
 .waiwaier.com
@@ -6396,7 +6203,6 @@ wango.org
 wangruoshui.net
 www.wangruowang.org
 want-daily.com
-wapedia.mobi/zhsimp
 warroom.org
 waselpro.com
 .watchinese.com
@@ -6423,7 +6229,6 @@ weblagu.com
 .webjb.org
 .webrush.net
 webs-tv.net
-.websitepulse.com/help/testtools.china-test
 .webwarper.net
 webworkerdaily.com
 wechatlawsuit.com
@@ -6459,7 +6264,6 @@ wexiaobo.org
 wezhiyong.org
 wezone.net
 .wforum.com
-wforum.com/
 .whatblocked.com
 whatblocked.com
 .wheatseeds.org
@@ -6483,7 +6287,6 @@ wildammo.com
 .williamhill.com
 collateralmurder.com
 collateralmurder.org
-wikilivres.info/wiki/%E9%9B%B6%E5%85%AB%E5%AE%AA%E7%AB%A0
 wikimapia.org
 .wikiwand.com
 wikiwand.com
@@ -6590,7 +6393,6 @@ wuw.red
 wuyanblog.com
 .wwitv.com
 wwitv.com
-wzyboy.im/post/160
 
 x.co
 .x-berry.com
@@ -6607,7 +6409,6 @@ xcafe.in
 xcity.jp
 .xcritic.com
 .xerotica.com
-destiny.xfiles.to/ubbthreads
 .xfm.pp.ru
 .xgmyd.com
 xgmyd.com
@@ -6627,7 +6428,6 @@ xiaohexie.com
 xiaxiaoqiang.net
 xiezhua.com
 .xihua.es
-forum.xinbao.de/forum
 .xing.com
 xinjiangpolicefiles.org
 .xinmiao.com.hk
@@ -6665,7 +6465,6 @@ xvideos-cdn.com
 xvideos.es
 xvbelink.com
 xvinlink.com
-.xkiwi.tk/
 xsden.info
 .xxbbx.com
 .xxlmovies.com
@@ -6691,7 +6490,6 @@ disk.yandex.ru
 yangjianli.com
 .yasni.co.uk
 yasni.co.uk
-.yayabay.com/forum
 news.ycombinator.com
 .ydy.com
 .yeahteentube.com
@@ -6720,7 +6518,6 @@ xa.yimg.com
 .yingsuoss.com
 .yipub.com
 yipub.com
-yinlei.org/mt
 .yizhihongxing.com
 yizhihongxing.com
 .yobt.com
@@ -6749,7 +6546,6 @@ yourprivatevpn.com
 .yousendit.com
 yousendit.com
 youthforfreechina.org
-.youthnetradio.org/tmit/forum
 blog.youthwant.com.tw
 me.youthwant.com.tw
 share.youthwant.com.tw
@@ -6774,7 +6570,6 @@ yulghun.com
 yunchao.net
 .yuvutu.com
 yvesgeleyn.com
-.ywpw.com/forums/history/post/A0/p0/html/227
 yx51.net
 .yyii.org
 yyii.org
@@ -6832,7 +6627,6 @@ zhuatieba.com
 zhuichaguoji.org
 zhuichaguoji.org
 zi.media
-.ziddu.com/download
 zillionk.com
 .zinio.com
 zinio.com
@@ -6871,8 +6665,6 @@ zyzc9.com
 64memo
 aHR0cHM6Ly95ZWNsLm5ldA
 freenet
-.google.*/falun
-phobos.apple.com*/video
 q=freedom
 q%3Dfreedom
 remembering_tiananmen_20_years
