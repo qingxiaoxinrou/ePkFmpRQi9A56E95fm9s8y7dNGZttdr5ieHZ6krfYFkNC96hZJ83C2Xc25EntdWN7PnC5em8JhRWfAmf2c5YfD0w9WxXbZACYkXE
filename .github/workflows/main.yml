@@ -37,16 +37,19 @@ jobs:
       - name: Remove lines without '.'
         run: grep '\.' cleaned_gfwlist.txt > filtered_gfwlist.txt
 
+      - name: Remove lines that are IP addresses
+        run: grep -vE '^(127\.|10\.|192\.168\.|172\.(1[6-9]|2[0-9]|3[0-1])\.|[1-9][0-9]?\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3})$' filtered_gfwlist.txt > final_gfwlist.txt
+
       - name: Create data directory
         run: mkdir -p data
 
-      - name: Move filtered file
-        run: mv filtered_gfwlist.txt data/
+      - name: Move final file
+        run: mv final_gfwlist.txt data/
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add data/filtered_gfwlist.txt
+          git add data/final_gfwlist.txt
           git commit -m "Update processed gfwlist" || echo "No changes to commit"
           git push
