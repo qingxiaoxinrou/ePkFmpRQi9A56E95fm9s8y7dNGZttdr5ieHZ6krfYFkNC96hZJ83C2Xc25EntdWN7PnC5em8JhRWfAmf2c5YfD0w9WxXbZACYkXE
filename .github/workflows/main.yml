@@ -34,14 +34,11 @@ jobs:
       - name: Remove leading '.' from lines
         run: sed -i 's/^\.//' cleaned_gfwlist.txt
 
-      - name: Remove lines with three or more leading dots
-        run: grep -v '^\.\{3,\}' cleaned_gfwlist.txt > filtered_gfwlist.txt
-
       - name: Create data directory
         run: mkdir -p data
 
       - name: Move cleaned file
-        run: mv filtered_gfwlist.txt data/cleaned_gfwlist.txt
+        run: mv cleaned_gfwlist.txt data/
 
       - name: Commit changes
         run: |
