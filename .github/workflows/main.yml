@@ -35,7 +35,7 @@ jobs:
         run: sed -i 's/^\.//' cleaned_gfwlist.txt
 
       - name: Remove lines with three or more leading dots
-        run: grep -v '^\.\{3,}' cleaned_gfwlist.txt > filtered_gfwlist.txt
+        run: awk '!/^\.\{3,}/' cleaned_gfwlist.txt > filtered_gfwlist.txt
 
       - name: Create data directory
         run: mkdir -p data
