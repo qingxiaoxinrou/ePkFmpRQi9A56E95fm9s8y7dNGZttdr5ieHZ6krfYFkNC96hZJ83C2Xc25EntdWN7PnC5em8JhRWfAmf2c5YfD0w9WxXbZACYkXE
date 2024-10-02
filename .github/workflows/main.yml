@@ -28,6 +28,9 @@ jobs:
       - name: Replace '||' with empty value
         run: sed -i 's/||//g' processed_gfwlist.txt
 
+      - name: Delete lines starting with '|'
+        run: sed -i '/^|/d' processed_gfwlist.txt
+
       - name: Create data directory
         run: mkdir -p data
 
