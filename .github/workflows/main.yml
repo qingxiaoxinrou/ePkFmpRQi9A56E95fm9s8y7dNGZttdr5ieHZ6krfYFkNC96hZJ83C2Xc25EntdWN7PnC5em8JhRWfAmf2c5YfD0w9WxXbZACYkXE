@@ -49,16 +49,31 @@ jobs:
       - name: Remove duplicate lines
         run: sort -u final_gfwlist.txt > unique_gfwlist.txt
 
+      - name: Create zone file
+        run: |
+          while read -r line; do
+            echo "  - zone: $line" >> fen.txt
+            echo "    recurse: true" >> fen.txt
+            echo "    forwarders:" >> fen.txt
+            echo "    - 149.112.112.11:9953" >> fen.txt
+            echo "    - 149.112.112.10:9953" >> fen.txt
+            echo "    - 9.9.9.11:9953" >> fen.txt
+            echo "    - 9.9.9.10:9953" >> fen.txt
+          done < unique_gfwlist.txt
+
       - name: Create data directory
         run: mkdir -p data
 
-      - name: Move final file
-        run: mv unique_gfwlist.txt data/
+      - name: Move final files
+        run: |
+          mv unique_gfwlist.txt data/
+          mv fen.txt data/
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
           git add data/unique_gfwlist.txt
-          git commit -m "Update processed gfwlist" || echo "No changes to commit"
+          git add data/fen.txt
+          git commit -m "Update processed gfwlist and generate fen.txt" || echo "No changes to commit"
           git push
