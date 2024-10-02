@@ -46,16 +46,19 @@ jobs:
                     -e '69.65.19.160' \
                     filtered_gfwlist.txt > final_gfwlist.txt
 
+      - name: Remove duplicate lines
+        run: sort -u final_gfwlist.txt > unique_gfwlist.txt
+
       - name: Create data directory
         run: mkdir -p data
 
       - name: Move final file
-        run: mv final_gfwlist.txt data/
+        run: mv unique_gfwlist.txt data/
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add data/final_gfwlist.txt
+          git add data/unique_gfwlist.txt
           git commit -m "Update processed gfwlist" || echo "No changes to commit"
           git push
