@@ -31,6 +31,9 @@ jobs:
       - name: Remove lines containing '|' or '/'
         run: grep -v '[|/]' processed_gfwlist.txt > cleaned_gfwlist.txt
 
+      - name: Remove leading '.' from lines
+        run: sed -i 's/^\.//' cleaned_gfwlist.txt
+
       - name: Create data directory
         run: mkdir -p data
 
