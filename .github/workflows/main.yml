@@ -34,28 +34,19 @@ jobs:
       - name: Remove leading '.' from lines
         run: sed -i 's/^\.//' cleaned_gfwlist.txt
 
-      - name: Remove lines with three or more leading dots
-        run: grep -v '^\.\{3,\}' cleaned_gfwlist.txt > filtered_gfwlist.txt
+      - name: Remove lines without '.'
+        run: grep '\.' cleaned_gfwlist.txt > filtered_gfwlist.txt
 
       - name: Create data directory
         run: mkdir -p data
 
-      - name: Move cleaned file
-        run: mv filtered_gfwlist.txt data/cleaned_gfwlist.txt
-
-      - name: Check if cleaned file exists
-        run: |
-          if [ -f data/cleaned_gfwlist.txt ]; then
-            echo "File exists:"
-            cat data/cleaned_gfwlist.txt
-          else
-            echo "File does not exist."
-          fi
+      - name: Move filtered file
+        run: mv filtered_gfwlist.txt data/
 
       - name: Commit changes
         run: |
           git config --local user.name "GitHub Actions"
           git config --local user.email "actions@github.com"
-          git add data/cleaned_gfwlist.txt
+          git add data/filtered_gfwlist.txt
           git commit -m "Update processed gfwlist" || echo "No changes to commit"
           git push
