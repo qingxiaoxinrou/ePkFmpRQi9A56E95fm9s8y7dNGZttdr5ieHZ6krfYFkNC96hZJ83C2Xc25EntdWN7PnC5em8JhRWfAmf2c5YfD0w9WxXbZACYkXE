@@ -37,8 +37,14 @@ jobs:
       - name: Remove lines without '.'
         run: grep '\.' cleaned_gfwlist.txt > filtered_gfwlist.txt
 
-      - name: Remove lines with three or more '.'
-        run: grep -v '\.\{3,\}' filtered_gfwlist.txt > final_gfwlist.txt
+      - name: Remove specific lines
+        run: |
+          grep -v -e '14.102.250.18' \
+                    -e '14.102.250.19' \
+                    -e '50.7.31.230:8898' \
+                    -e '174.142.105.153' \
+                    -e '69.65.19.160' \
+                    filtered_gfwlist.txt > final_gfwlist.txt
 
       - name: Create data directory
         run: mkdir -p data
