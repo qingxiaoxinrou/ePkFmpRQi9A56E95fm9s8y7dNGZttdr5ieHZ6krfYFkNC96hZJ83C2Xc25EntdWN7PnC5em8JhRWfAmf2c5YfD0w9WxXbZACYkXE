@@ -55,6 +55,8 @@ jobs:
             echo "  - zone: $line" >> fen.txt
             echo "    recurse: true" >> fen.txt
             echo "    forwarders:" >> fen.txt
+            echo "    - 208.67.222.222:5353" >> fen.txt
+            echo "    - 208.67.220.220:5353" >> fen.txt
             echo "    - 149.112.112.11:9953" >> fen.txt
             echo "    - 149.112.112.10:9953" >> fen.txt
             echo "    - 9.9.9.11:9953" >> fen.txt
