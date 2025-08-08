@@ -3659,6 +3659,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: bitget.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: bithumb.com
     recurse: true
     forwarders:
@@ -33382,6 +33389,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: uocn.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: upbit.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
