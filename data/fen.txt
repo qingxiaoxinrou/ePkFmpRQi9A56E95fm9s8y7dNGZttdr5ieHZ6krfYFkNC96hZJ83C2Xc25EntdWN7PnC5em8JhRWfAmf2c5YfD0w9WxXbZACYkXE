@@ -3407,6 +3407,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: betterhash.net
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: betternet.co
     recurse: true
     forwarders:
