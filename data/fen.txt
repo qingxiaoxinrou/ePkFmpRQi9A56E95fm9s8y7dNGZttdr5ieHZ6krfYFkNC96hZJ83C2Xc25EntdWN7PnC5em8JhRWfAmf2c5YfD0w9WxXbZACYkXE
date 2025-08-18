@@ -8104,6 +8104,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: deno.dev
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: depositphotos.com
     recurse: true
     forwarders:
@@ -8560,6 +8567,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: docker.io
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: docs.deno.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -12060,6 +12074,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: furinkan.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: furrybar.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
