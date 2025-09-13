@@ -20004,6 +20004,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: mcusercontent.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: md-t.org
     recurse: true
     forwarders:
@@ -28054,6 +28061,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: sina.com.hk
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: singaporepools.com.sg
     recurse: true
     forwarders:
@@ -30071,6 +30085,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: talk853.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: talkatone.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
