@@ -12374,6 +12374,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: garudalinux.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: gate.io
     recurse: true
     forwarders:
@@ -12879,6 +12886,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: githubusercontent.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: gitlab.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -22511,6 +22525,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: nintendium.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: nirsoft.net
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -34852,6 +34873,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: vpser.net
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: vpsxb.net
     recurse: true
     forwarders:
     - 149.112.112.11:9953
