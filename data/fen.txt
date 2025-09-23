@@ -2049,6 +2049,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: api.palworldgame.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: api.pureapk.com
     recurse: true
     forwarders:
@@ -23204,6 +23211,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: october-review.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: octocaptcha.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
