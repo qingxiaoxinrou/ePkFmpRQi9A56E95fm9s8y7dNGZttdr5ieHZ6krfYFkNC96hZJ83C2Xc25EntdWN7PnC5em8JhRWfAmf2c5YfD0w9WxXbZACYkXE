@@ -7425,6 +7425,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: ctinets.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: ctinews.com
     recurse: true
     forwarders:
@@ -16729,6 +16736,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: internetpopculture.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: interseclab.org
     recurse: true
     forwarders:
     - 149.112.112.11:9953
