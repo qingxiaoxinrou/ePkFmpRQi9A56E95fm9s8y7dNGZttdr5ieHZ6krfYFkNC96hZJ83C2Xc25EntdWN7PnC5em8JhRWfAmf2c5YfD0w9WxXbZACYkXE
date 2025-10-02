@@ -30196,6 +30196,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: tap.io
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: tapanwap.com
     recurse: true
     forwarders:
@@ -30204,6 +30211,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: tapatalk.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: taptap.io
     recurse: true
     forwarders:
     - 149.112.112.11:9953
