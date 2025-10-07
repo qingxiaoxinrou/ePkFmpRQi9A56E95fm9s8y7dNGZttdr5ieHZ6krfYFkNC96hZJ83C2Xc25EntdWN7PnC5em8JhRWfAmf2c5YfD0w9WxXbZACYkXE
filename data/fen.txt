@@ -28712,6 +28712,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: solscan.io
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: solv.finance
     recurse: true
     forwarders:
