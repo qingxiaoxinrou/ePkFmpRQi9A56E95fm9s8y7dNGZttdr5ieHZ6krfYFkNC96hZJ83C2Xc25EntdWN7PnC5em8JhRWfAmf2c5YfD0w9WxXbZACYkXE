@@ -11674,6 +11674,20 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: freegpt.es
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: freegpt.tech
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: freehongkong.org
     recurse: true
     forwarders:
