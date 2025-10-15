@@ -2441,6 +2441,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: asianfanfics.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: asiansexdiary.com
     recurse: true
     forwarders:
@@ -32359,6 +32366,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: trustwallet.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: truthsocial.com
     recurse: true
     forwarders:
@@ -37694,6 +37708,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: z-lib.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: z-library.ec
     recurse: true
     forwarders:
     - 149.112.112.11:9953
