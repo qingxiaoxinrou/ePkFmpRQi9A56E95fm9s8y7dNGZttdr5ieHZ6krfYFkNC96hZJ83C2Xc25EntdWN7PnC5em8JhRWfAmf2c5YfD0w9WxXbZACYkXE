@@ -35376,6 +35376,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: websdr.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: website.informer.com
     recurse: true
     forwarders:
@@ -36868,6 +36875,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: xn--p8j9a0d9c9a.xn--q9jyb4c
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: xn--u2u927b.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
