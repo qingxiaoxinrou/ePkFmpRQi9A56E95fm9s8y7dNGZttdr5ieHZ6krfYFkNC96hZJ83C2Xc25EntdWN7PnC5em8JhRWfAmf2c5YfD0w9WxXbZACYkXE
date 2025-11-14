@@ -2007,6 +2007,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: aoxvpn.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: apartmentratings.com
     recurse: true
     forwarders:
@@ -3429,6 +3436,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: betfair.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: bettergpt.chat
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -5059,6 +5073,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: canva.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: canyu.org
     recurse: true
     forwarders:
@@ -5312,6 +5333,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: cchere.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: cchostvps.xyz
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -5745,6 +5773,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: chat.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: chat.lmsys.org
     recurse: true
     forwarders:
@@ -5760,6 +5795,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: chatnook.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: chatpdf.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -7895,6 +7937,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: darktech.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: darmau.co
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -11051,6 +11100,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: files.oaiusercontent.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: filesor.com
     recurse: true
     forwarders:
@@ -11296,6 +11352,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: flowgpt.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: flowhongkong.net
     recurse: true
     forwarders:
@@ -11381,6 +11444,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: forbes.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: forefront.ai
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -14761,6 +14831,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: hicairo.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: hiccears.com
     recurse: true
     forwarders:
@@ -15987,6 +16064,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: hybrid-analysis.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: hyperbeam.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -17596,13 +17680,6 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
-  - zone: jichangtj.com
-    recurse: true
-    forwarders:
-    - 149.112.112.11:9953
-    - 149.112.112.10:9953
-    - 9.9.9.11:9953
-    - 9.9.9.10:9953
   - zone: jiehua.cz
     recurse: true
     forwarders:
@@ -18919,6 +18996,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: lexica.art
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: lflink.com
     recurse: true
     forwarders:
@@ -19185,6 +19269,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: linux.do
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: linux.org.hk
     recurse: true
     forwarders:
@@ -19333,6 +19424,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: lkcn.net
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: lmarena.ai
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -19522,6 +19620,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: lsxszzg.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: lt.sntp.uk
     recurse: true
     forwarders:
     - 149.112.112.11:9953
@@ -26535,6 +26640,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: rentry.co
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: renyurenquan.org
     recurse: true
     forwarders:
@@ -28789,6 +28901,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: sora.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: sorting-algorithms.com
     recurse: true
     forwarders:
@@ -30638,6 +30757,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: terabox.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: terobox.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
