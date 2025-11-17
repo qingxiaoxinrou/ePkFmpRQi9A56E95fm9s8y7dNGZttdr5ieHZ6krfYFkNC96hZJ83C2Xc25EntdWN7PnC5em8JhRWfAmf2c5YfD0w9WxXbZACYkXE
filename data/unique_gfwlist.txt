@@ -162,6 +162,7 @@ aculo.us
 adcex.com
 addictedtocoffee.de
 addyoutube.com
+adguard-vpn.com
 admin.recaptcha.net
 admob.com
 adpl.org.hk
@@ -2086,6 +2087,7 @@ hautelookcdn.com
 have8.com
 hbg.com
 hbo.com
+hbomax.com
 hclips.com
 hdtvb.net
 hdzog.com

@@ -1146,6 +1146,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: adguard-vpn.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: admin.recaptcha.net
     recurse: true
     forwarders:
@@ -14608,6 +14615,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: hbo.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: hbomax.com
     recurse: true
     forwarders:
     - 149.112.112.11:9953
