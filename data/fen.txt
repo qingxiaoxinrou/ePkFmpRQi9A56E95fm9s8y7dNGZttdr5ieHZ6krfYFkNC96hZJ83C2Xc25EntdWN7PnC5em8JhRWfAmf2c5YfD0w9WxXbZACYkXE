@@ -19129,6 +19129,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: library-access.sk
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: libredd.it
     recurse: true
     forwarders:
@@ -20614,6 +20621,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: mihua.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: mij.rip
     recurse: true
     forwarders:
     - 149.112.112.11:9953
