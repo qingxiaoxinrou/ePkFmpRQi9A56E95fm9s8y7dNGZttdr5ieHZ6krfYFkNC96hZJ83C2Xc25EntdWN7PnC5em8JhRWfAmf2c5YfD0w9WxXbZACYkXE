@@ -14187,6 +14187,13 @@
     - 149.112.112.10:9953
     - 9.9.9.11:9953
     - 9.9.9.10:9953
+  - zone: greatfirevpn.com
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
   - zone: greatfirewall.biz
     recurse: true
     forwarders:
@@ -36063,6 +36070,13 @@
     - 9.9.9.11:9953
     - 9.9.9.10:9953
   - zone: wikisource.org
+    recurse: true
+    forwarders:
+    - 149.112.112.11:9953
+    - 149.112.112.10:9953
+    - 9.9.9.11:9953
+    - 9.9.9.10:9953
+  - zone: wikiunblocked.org
     recurse: true
     forwarders:
     - 149.112.112.11:9953
